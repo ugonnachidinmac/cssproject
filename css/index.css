@@ -12,19 +12,19 @@
     #1d1d1d 90.49%
   );
   max-width: 1920px;
-  height: 250px;
+  height: 313px;
   position: relative;
   z-index: 2;
   color: white;
 
   div {
     max-width: 1920px;
-    height: 250px;
+    height: 313px;
     background-image: url("../image/backgroundImage.png");
     background-repeat: no-repeat;
     background-position: 105% 0%;
-    background-size: 35%;
-    padding: 25px 0 15px 50px;
+    /* background-size: 35%; */
+    padding: 25px 0 10px 50px;
   }
 
   h3 {
@@ -36,7 +36,7 @@
     line-height: 36.57px;
     letter-spacing: 0.1854em;
     text-align: left;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
   }
 
   p {
@@ -46,7 +46,7 @@
     font-size: 15px;
     line-height: 19px;
     text-align: justified;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
   }
 
   button {
